@@ -51,3 +51,7 @@ http://localhost:5500
 ## Observação
 
 As imagens e trailers são carregados por URLs externas.
+
+## Autor
+
+PauloRamos38
