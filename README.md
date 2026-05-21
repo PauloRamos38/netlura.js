@@ -52,6 +52,8 @@ http://localhost:5500
 
 As imagens e trailers são carregados por URLs externas.
 
+Branch isolada criada para testes antes da integração na main.
+
 ## Autor
 
 PauloRamos38
